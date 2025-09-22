@@ -99,7 +99,7 @@ Credit-Card-Fraud-Detection-Dashboard/
 
 ## 📬 Contact
 For questions or collaboration:  
-- **LinkedIn:** [Joseph Tulani Aytch](https://www.linkedin.com/in/josephtulaniaytch)  
+- **LinkedIn:** [Joseph Tulani Aytch]((https://www.linkedin.com/in/tulaniaytch/))  
 - **Email:** tulan94@gmail.com  
 
 ---
